@@ -8,14 +8,6 @@ If both parties are correct, they will get a tie. This game is actually controll
 
 ![minimax](https://raw.githubusercontent.com/anandman03/Smart-Tic-Tac-Toe/main/Public/minimax.jpg)
 
-## Installation
-
-```
-$ git clone https://github.com/anandman03/Smart-Tic-Tac-Toe.git
-$ cd Smart-Tic-Tac-Toe
-$ g++ Source.cpp
-$ ./a.out
-```
 
 ## Code Snippets
 
