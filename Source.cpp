@@ -1,4 +1,3 @@
-/* Sat-Chitta-Ananda */
 
 #include <bits/stdc++.h>
 using namespace std;
